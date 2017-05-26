@@ -1,0 +1,6 @@
+{
+  "name": "landing-page",
+  "short_name": "landing-page",
+  "start_url": "/",
+  "display": "standalone"
+}
